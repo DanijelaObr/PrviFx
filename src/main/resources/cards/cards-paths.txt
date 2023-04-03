@@ -1,0 +1,5 @@
+src/main/resources/cards/diamond1.jpg
+src/main/resources/cards/diamond2.jpg
+src/main/resources/cards/diamond3.jpg
+src/main/resources/cards/diamond4.jpg
+src/main/resources/cards/specialDiamond.jpg

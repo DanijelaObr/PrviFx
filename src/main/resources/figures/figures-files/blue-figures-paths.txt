@@ -1,0 +1,3 @@
+src/main/resources/figures/ordinaryBlue.png
+src/main/resources/figures/runningBlue.jpg
+src/main/resources/figures/flyingBlue.jpg

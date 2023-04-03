@@ -1,0 +1,3 @@
+src/main/resources/figures/ordinaryYellow.png
+src/main/resources/figures/runningYellow.jpg
+src/main/resources/figures/flyingYellow.jpg

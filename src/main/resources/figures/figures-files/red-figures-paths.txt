@@ -1,0 +1,3 @@
+src/main/resources/figures/ordinaryRed.png
+src/main/resources/figures/runningRed.jpg
+src/main/resources/figures/flyingRed.png
